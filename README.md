@@ -48,7 +48,3 @@ cd java/Tinycar/mission4/question1
 javac Question1.java
 java Question1
 ```
-
-## Auteur
-
-Aaron Mfoula Mbome — [aaronmfoula.fr](https://aaronmfoula.fr)
